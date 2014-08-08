@@ -5,6 +5,6 @@ introductory depository
 
 editing this readme
 
-cool.
+super cool.
 
 
