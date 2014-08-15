@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-introductory depository
+introductory repository
 
 editing this readme
 
